@@ -2,8 +2,8 @@
 Tool Sederhana Untuk Crack Instagram
 
 # Cara Install Scripts
-pkg update && pkg upgrade\n
-pkg install python\n
+  pkg update && pkg upgrade\n
+  pkg install python\n
 pkg install git\n
 pip install stdiomask\n
 pip install requests
