@@ -1,4 +1,4 @@
-# instagram
+# IGXREX
 Tool Sederhana Untuk Crack Instagram
 
 # Cara Install Scripts
@@ -21,7 +21,7 @@ pip install requests
 
 pip install futures
 
-git clone https://github.com/40R3C/instagram
+git clone https://github.com/40R3C/IGXREX
 
 
 # Cara Menjalankan Scripts
