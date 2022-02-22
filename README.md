@@ -26,7 +26,7 @@ git clone https://github.com/40R3C/IGXREX
 
 # Cara Menjalankan Scripts
 
-cd instagram
+cd IGXREX
 
 python instagram.py
 
